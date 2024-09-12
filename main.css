@@ -1,0 +1,6 @@
+/* Note: CSS are applied from top to bottom. Last rule wins. */
+/* Method 1: External CSS Part 3 */
+.external-css {
+    color: #038C7F; /* Teal text color*/
+    background-color: #01403A; /* Dark teal background color */
+}
