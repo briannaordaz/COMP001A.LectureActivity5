@@ -18,7 +18,7 @@ body {
 h1 {
     color: #038C7F; /* Teal text color*/
     font-size: 2em; /* 2x the default font size */
-    margin-bottom: lem; /* Adding some space below the heading */
+    margin-bottom: 1em; /* Adding some space below the heading */
 }
 
 h2 {
@@ -34,7 +34,7 @@ p {
 /* Styling the unordered list */
 ul {
     list-style-type: none; /* Removing the bullet points */
-    margin-left: 20x; /* Indenting the list */
+    margin-left: 20px; /* Indenting the list */
     margin-bottom: 12px; /* Adding some space below the list */
 }
 
@@ -76,7 +76,7 @@ a {
     display: inline-block; /* Making the link a block element */
     color: #3498db; /* Bright blue text color */
     text-decoration: none; /* Removing the underline */
-    padding: 5px 10x; /* Adding some space inside the link */
+    padding: 5px 10px; /* Adding some space inside the link */
     border: 1px solid #3498db; /* Bright blue border color */
     transition: all 0.3s ease; /* Adding a transition */
 }
